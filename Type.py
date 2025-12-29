@@ -1,3 +1,5 @@
+#Created this file to understand type funtion;it will show you data type of variable
+
 Age=35          #int
 Marks=90.89     #float
 City="Pune"     #str
