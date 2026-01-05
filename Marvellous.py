@@ -1,0 +1,13 @@
+#Module file
+
+PI=3.14
+print("Inside Module : ",__name__)
+
+def add(No1,No2):
+    Ans = No1+No2
+    return Ans
+
+def sub(No1,No2):
+    Ans = No1-No2
+    return Ans
+
